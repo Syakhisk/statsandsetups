@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-tailwind-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fontsource/montserrat": "^4.2.1",
+    "@fontsource/nunito-sans": "^4.2.1",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwind-styled-components": "^1.0.7",
+    "tailwindcss": "^2.0.3"
+  }
+}
